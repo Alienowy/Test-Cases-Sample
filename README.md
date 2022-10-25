@@ -20,7 +20,7 @@ You can read some examples of test cases below
 |    15  | Verify that suitable error message appears whenever error occures |
 |    16  | Verify that right http status is returned whenever error occures |
 |    17  | Check the minimum limit of the textbox |
-|    18  | Check the maximum limit of the textbox |
+|    18  | Check the maximum limit of the textbox. |
 |    19  | Check if the box content is trimmed. |
 
 
